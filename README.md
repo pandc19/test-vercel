@@ -8,7 +8,7 @@
 $ pnpm install
 ```
 
-### Run app on development mode
+### Run app in development mode
 
 ```
 $ pnpm dev
