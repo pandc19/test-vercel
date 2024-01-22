@@ -12,6 +12,11 @@ Este proyecto tiene como objetivo cubrir la prueba técnica de full stack.
 
 ### Instalación de Dependencias
 
+Para instalar el gestor de paquetes a utilizar en este proyecto:
+
+```
+https://pnpm.io/installation
+```
 Para instalar las dependencias del proyecto, ejecuta:
 
 ```
